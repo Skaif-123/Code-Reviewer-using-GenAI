@@ -361,12 +361,11 @@ Visit **http://localhost:3000** to test.
 # Step-by-step build order can be easily understood by seeing repository
 
 ## 6. Trouble Shooting
- # Gemini API integration code keeps on changing , please use latest code from official site 
- # Location of .env is very important for accesing API key
- # API key generated only last for 90 days
+ 1. Gemini API integration code keeps on changing , please use latest code from official site 
+ 2. Location of .env is very important for accesing API key
+ 3. API key generated only last for 90 days
 
-## 7. Potential Enhancements & Deployment
-# Potential Enhancements & Deployment (Using Docker)
+## 7. Potential Enhancements & Deployment (Using Docker)
 
 ## Potential Enhancements
 
